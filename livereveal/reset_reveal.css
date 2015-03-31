@@ -345,17 +345,7 @@ body {
 
 	-webkit-box-sizing: border-box;
 	   -moz-box-sizing: border-box;
-	        box-sizing: border-box;
-}
-
-.reveal table th,
-.reveal table td {
-	text-align: left;
-	padding-right: .3em;
-}
-
-.reveal table th {
-	font-weight: bold;
+		box-sizing: border-box;
 }
 
 .reveal sup {
